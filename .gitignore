@@ -1,3 +1,5 @@
+.idea
+.vscode
 pom.xml
 pom.xml.asc
 *.jar
